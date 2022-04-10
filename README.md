@@ -18,6 +18,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p> -->
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=TeddyO323&theme=highcontrast&show_icons=true&count_private=true)
+
 <a href="#">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=TeddyO323
 u&show_icons=true&theme=jolly&layout=compact" />
@@ -27,9 +29,6 @@ u&show_icons=true&theme=jolly&layout=compact" />
 &langs_count=8&theme=jolly&layout=compact" />
 </a>
 
-<p> 
-  <a href="https://twitter.com/BarhamouHama" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/barhamou-hama-90047b179/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+
 </div>
 
