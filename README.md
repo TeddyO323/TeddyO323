@@ -832,7 +832,7 @@
 [0x0A. Python - Inheritance](https://github.com/TeddyO323/alx-higher_level_programming/tree/main/0x0A-python-inheritance#readme)</strong></pre></td>
            <td><pre><strong>[0x0B. Python - Input/Output](https://github.com/TeddyO323/alx-higher_level_programming/tree/main/0x0B-python-input_output#readme)</strong></pre></td>
            <td><pre><strong>Peer Learning Day</strong></pre></td>
-           <td><pre><strong>[0x0C. Python - Almost a circle]</strong></pre></td>
+           <td><pre><strong>[0x0C. Python - Almost a circle](https://github.com/TeddyO323/alx-higher_level_programming/tree/main/0x0C-python-almost_a_circle#readme)</strong></pre></td>
            <td></td>
            <td></td>
            <td></td>
