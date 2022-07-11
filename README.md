@@ -14,12 +14,11 @@
 - :tea: Chai is <3
 - :ok: Index starts with 1? xD 
 - :eyes: ![](https://komarev.com/ghpvc/?username=TeddyO323)
-- I am currently learning [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) at [Alx Africa](https://www.alxafrica.com/)
-- Click [here](https://www.alxafrica.com/programme_post/full-stack-software-engineer/)to apply. **IT'S FREE** 🥳🥳
+- I am currently learning [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) at [Alx Africa](https://www.alxafrica.com/). January 2022 - January 2023. Click [here](https://www.alxafrica.com/programme_post/full-stack-software-engineer/) to apply for the August Cohort. **IT'S FREE** 🥳🥳
 
 <details>
 
-<summary>Tap to view the Alx School calendar</summary>
+<code><summary>Tap to view the Alx School calendar</summary></code>
 <table>
     <thead>
       <tr>
