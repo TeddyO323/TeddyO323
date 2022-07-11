@@ -8,6 +8,7 @@
 <img style="margin-right:20px" align="right" alt="GIF" src="./Assets/img/congapartyparrot.gif" width="200vw" />
 
 - :grey_question: Checking how this thing README.md works.
+- 🏫 I am a student at [Zetech University](https://www.zetech.ac.ke/) Pursuing a Bachelor's In Information Technology.
 - :exclamation: I write codes.
 - :smiley: Interested in Cyber Security, Android developement and Machine Learning 
 - :+1: Looking to collaborate on any weird ideas xD
