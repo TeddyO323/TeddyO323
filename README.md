@@ -869,7 +869,7 @@
            <td></td>
            <td></td>
            <td><pre><strong>[0x04. Loops, conditions and parsing](https://github.com/TeddyO323/alx-system_engineering-devops/tree/main/0x04-loops_conditions_and_parsing#readme)</td>
-           <td></td>
+           <td><pre><strong>[0x05. Processes and signals](https://github.com/TeddyO323/alx-system_engineering-devops/tree/main/0x05-processes_and_signals#readme)</td>
            <td></td>
            <td></td>
          </tr>
