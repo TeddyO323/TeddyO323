@@ -868,8 +868,8 @@
            <td></td>
            <td></td>
            <td></td>
-           <td><pre><strong>[0x04. Loops, conditions and parsing](https://github.com/TeddyO323/alx-system_engineering-devops/tree/main/0x04-loops_conditions_and_parsing#readme)</td>
-           <td><pre><strong>[0x05. Processes and signals](https://github.com/TeddyO323/alx-system_engineering-devops/tree/main/0x05-processes_and_signals#readme)</td>
+           <td><pre><strong>[0x04. Loops, conditions and parsing](https://github.com/TeddyO323/alx-system_engineering-devops/tree/main/0x04-loops_conditions_and_parsing#readme)</strong></pre></td>
+           <td><pre><strong>[0x05. Processes and signals](https://github.com/TeddyO323/alx-system_engineering-devops/tree/main/0x05-processes_and_signals#readme)</strong></pre></td>
            <td></td>
            <td></td>
          </tr>
@@ -884,8 +884,8 @@
          </tr>
          <tr>
            <td></td>
-           <td></td>
-           <td></td>
+           <td><pre><strong>[0x06. Regular expression](https://github.com/TeddyO323/alx-system_engineering-devops/tree/main/0x06-regular_expressions#readme)</strong></pre></td>
+           <td><pre><strong>[0x07-networking_basics](https://github.com/TeddyO323/alx-system_engineering-devops/tree/main/0x07-networking_basics#readme) - 2 day project</strong></pre><br><pre><strong>[0x08. Networking basics #1](https://github.com/TeddyO323/alx-system_engineering-devops/tree/main/0x08-networking_basics_2#readme) - 2 day project</td>
            <td></td>
            <td></td>
            <td></td>
