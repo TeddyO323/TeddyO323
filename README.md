@@ -17,9 +17,9 @@
 - :eyes: ![](https://komarev.com/ghpvc/?username=TeddyO323)
 - I am currently learning [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) at [Alx Africa](https://www.alxafrica.com/). January 2022 - January 2023. Click [here](https://theroom.formstack.m/forms/software_engineering_application?utm_source=Website&utm_medium=SE%20Landing%20Page&utm_campaign=SE%20Apply%20Today%20Button) to apply for the September Cohort. **IT'S FREE** 🥳🥳
 
-<details>
+<!----- <details>
 
-<!----- <code><summary>Tap to view the Alx School calendar</summary></code>
+ <code><summary>Tap to view the Alx School calendar</summary></code>
 
 <table>
 <thead>
