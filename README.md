@@ -16,7 +16,7 @@
 - :ok: Index starts with 1? xD 
 - :eyes: ![](https://komarev.com/ghpvc/?username=TeddyO323)
 - I am currently learning [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) at [Alx Africa](https://www.alxafrica.com/). January 2022 - January 2023.
-
+<!-------
  <details>
 
  <code><summary>Tap to view the Alx School calendar</summary></code>
@@ -895,7 +895,7 @@
        </table>
        </details>
 ---
---- 
+---   --->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TeddyO323&theme=highcontrast&show_icons=true&count_private=true) |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyO323&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
