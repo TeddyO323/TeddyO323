@@ -3,7 +3,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/teddy.omonditunya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/theo68680456) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teddy-omondi-35551376) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=495810&background=0205102C&lines=Software+Engineering+student+at+Alx+Africa;Cybersecurity+Analyst;Web+Developer;Data+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=495810&background=0205102C&lines=Software+Engineer;Cybersecurity+Analyst;Web+Developer;Data+Analyst)](https://git.io/typing-svg)
 
 <img style="margin-right:20px" align="right" alt="GIF" src="./Assets/img/congapartyparrot.gif" width="200vw" />
 
