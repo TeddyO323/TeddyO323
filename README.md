@@ -16,6 +16,17 @@
 - :ok: Index starts with 1? xD 
 - :eyes: ![](https://komarev.com/ghpvc/?username=TeddyO323)
 - I am currently learning [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) at [Alx Africa](https://www.alxafrica.com/). January 2022 - January 2023.
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeddyO323&theme=highcontrast)
+
 <!-------
  <details>
 
