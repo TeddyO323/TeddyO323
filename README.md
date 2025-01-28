@@ -25,7 +25,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeddyO323&theme=highcontrast)
 
 <!-------
  <details>
