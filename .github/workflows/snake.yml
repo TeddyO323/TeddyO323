@@ -1,4 +1,4 @@
-name: Generate Colorful Snake Animation
+name: Generate Rainbow Snake Animation
 
 on:
   schedule: # Runs every day at 12 AM UTC
@@ -12,15 +12,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Colorful Snake
+      - name: Generate Rainbow Snake
         uses: Platane/snk@v3
         with:
           github_user_name: TeddyO323
           outputs: dist/github-contribution-grid-snake.svg
-          # Color options
-          color_snake: ff0000 # Red snake
-          color_dots: 00ff00,ffff00,0000ff,ff00ff # Green, yellow, blue, magenta dots
-          color_bg: 0d1117 # Dark GitHub background
+          color_snake: ff0000,ffa500,ffff00,00ff00,00ffff,0000ff,8b00ff
+          color_dots: 39ff14,ff073a,ffdd00,04d9ff,be03fd
+          color_bg: 0d1117
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -29,4 +28,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            
