@@ -13,7 +13,7 @@
 
 </div>
 
-<img align="right" alt="Party parrot" src="./Assets/img/congapartyparrot.gif" width="170" />
+<img align="right" alt="Party parrot" src="./Assets/img/2564983.gif" width="170" />
 
 ## About me
 
